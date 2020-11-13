@@ -21,7 +21,25 @@ LucyRTL8125Ethernet---------------------------1.1.0
 
 USBInjectAll---------------------------------0.7.6
 
-macOS Version:macOS High Sierra 10.13.6（17G66）， macOS Mojave 10.14.6（18G103），macOS Catalina 10.15.7（19H15），macOS Big Sur 11.0.1 RC2（20B2B）
+
+macOS Version:
+
+macOS High Sierra 10.13.6（17G66）
+
+macOS Mojave 10.14.6（18G103）
+
+macOS Catalina 10.15.7（19H15）
+
+macOS Big Sur 11.0.1 （20B29）
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/1.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/2.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/3.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/6.jpg'/>
+
 
 架構: iMac20,1
 
@@ -31,13 +49,23 @@ macOS Version:macOS High Sierra 10.13.6（17G66）， macOS Mojave 10.14.6（18G
 
 ☑️ 接力 Handoff
 
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/1.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/4.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/5.jpg'/>
+
 ☑️ iMessage/FaceTime
 
 ☑️ AirDrop
 
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/7.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/8.jpg'/>
+
 ☑️ 睡眠/喚醒 Sleep
 
-☑️ USB 端口已定制(暫時不上傳定制驅動程式，日後上傳）
+☑️ USB 端口已定制
 
 ☑️ 內顯加速
 
@@ -54,5 +82,28 @@ macOS Version:macOS High Sierra 10.13.6（17G66）， macOS Mojave 10.14.6（18G
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
 
+BIOS設定
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/Menu.bmp'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/Settings-Advanced.bmp'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/Adobe%204G%20memory.bmp'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/IGD%20Multi-Monitor.bmp'/>
+
+<img src='hhttps://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/XHCI%20Hand-Off.bmp'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/Resume%20By%20USB%20Device.bmp'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/OC-CPU%20Features.bmp'/>
+
+<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/CFG%20Lock.bmp'/>
+
+USB睡眠喚醒問題請看BIOS設定例子
 
 如有其他問題，請加Q群：1125705781，備註小明或B站
