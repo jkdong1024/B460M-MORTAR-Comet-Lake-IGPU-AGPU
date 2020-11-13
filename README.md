@@ -96,10 +96,6 @@ BIOS設定
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/Resume%20By%20USB%20Device.bmp'/>
 
-<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
-
-<img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
-
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/OC-CPU%20Features.bmp'/>
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/CFG%20Lock.bmp'/>
