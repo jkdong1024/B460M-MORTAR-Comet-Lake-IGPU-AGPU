@@ -82,7 +82,7 @@ macOS Big Sur 11.0.1 （20B29）
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/%E9%80%B2%E9%9A%8E.jpg'/>
 
-BIOS設定
+BIOS設定（請更新你的BIOS版本為7C82v13，BIOS檔案名為E7C82IMS.130，BIOS更新日期為2020-10-13，否則無法進行我下面的某些設定
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/BIOS%E8%A8%AD%E5%AE%9A/Menu.bmp'/>
 
