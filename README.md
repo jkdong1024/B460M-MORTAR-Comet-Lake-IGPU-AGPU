@@ -5,17 +5,17 @@ This EFI can support Comet Lake's coreless graphics card to use Nvidia or AMD gr
 
 ### EFI
 
-OpenCore: 0.6.3
+OpenCore: 0.6.4
 
 Kext：
 
-Lilu--------------------------------------1.4.9
+Lilu--------------------------------------1.5.0
 
-VirtualSMC------------------------------------1.1.8
+VirtualSMC------------------------------------1.1.9
 
-WhateverGreen---------------------------------1.4.4
+WhateverGreen---------------------------------1.4.5
 
-AppleALC--------------------------------------1.5.4
+AppleALC--------------------------------------1.5.5
 
 LucyRTL8125Ethernet---------------------------1.1.0
 
@@ -31,6 +31,8 @@ macOS Mojave 10.14.6（18G103）
 macOS Catalina 10.15.7（19H15）
 
 macOS Big Sur 11.0.1 （20B29）
+
+macOS Big Sur 11.1.1 （20C69）
 
 <img src='https://github.com/IlikemacOS/B460M-MORTAR-Comet-Lake-IGPU-AGPU/blob/main/Screenshot/1.jpg'/>
 
